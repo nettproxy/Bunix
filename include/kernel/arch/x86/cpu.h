@@ -10,6 +10,7 @@
 #define CPU_VENDOR_HYPERV    "Microsoft Hv"
 #define CPU_VENDOR_VMWARE    "VMwareVMware"
 #define CPU_VENDOR_QEMU      "TCGTCGTCGTCG"
+#define CPU_VENDOR_VIRTUALBOX "VBoxVBoxVBox"
 #define CPU_VENDOR_UNKNOWN   "Unknown"
 
 #define CPU_DEBUG_DUMP_CACHES   0x01
